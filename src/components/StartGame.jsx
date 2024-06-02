@@ -22,7 +22,6 @@ align-items :center;
 const StartGame = ({toggle}) => {
   return( 
   <Container><div>
-<img src="/public/images/dice/dice_7.png" />
 </div>
     <div className="content">
         <h1>Dice Game</h1>
