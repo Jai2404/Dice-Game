@@ -22,6 +22,7 @@ align-items :center;
 const StartGame = ({toggle}) => {
   return( 
   <Container><div>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Ddice&psig=AOvVaw3EywTk1zwYcgzOz8M9lYK2&ust=1717433124540000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCc26GvvYYDFQAAAAAdAAAAABAE" />
 </div>
     <div className="content">
         <h1>Dice Game</h1>
