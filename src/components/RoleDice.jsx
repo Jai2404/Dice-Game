@@ -20,7 +20,7 @@ const RoleDice = ({ currentDice, roleDice }) => {
   return (
     <DiceContainer>
       <div className='dice' onClick={roleDice}>
-        <img src={`images/dice/dice_${currentDice}.png`} alt="Dice" />
+        <img src={`./dice_${currentDice}.png`} alt="Dice" />
       </div>
       <p>Click on the dice to roll</p>
     </DiceContainer>
